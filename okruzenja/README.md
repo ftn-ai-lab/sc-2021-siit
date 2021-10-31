@@ -1,6 +1,6 @@
 # Okruženja za praktičan deo kursa
 
-Za potrebe praktičnog dela kursa potrebno je instalirati [Python3](https://www.python.org/downloads/) (poželjno Python 3.6.x) i odgovarajuće biblioteke. Spisak svih potrebnih biblioteka sa odgovarajućim verzijama se nalazi u **requirements.txt** fajlu ovog foldera repozitorijuma.
+Za potrebe praktičnog dela kursa potrebno je instalirati [Python3](https://www.python.org/downloads/) (poželjno Python 3.7.x ili noviji) i odgovarajuće biblioteke. Spisak svih potrebnih biblioteka sa odgovarajućim verzijama se nalazi u **requirements.txt** fajlu ovog foldera repozitorijuma.
 
 Postoji nekoliko načina za instalaciju biblioteka i podešavanje odgovarajućeg okruženja,a na vama je da odaberete onaj koji Vam najviše odgovara:
 
@@ -32,7 +32,7 @@ Podešavanje i upotreba:
 `$ pip install virtualenv` ili `$ pip3 install virtualenv`  
 2) U sklopu proizvoljnog foldera (preporuka da to bude folder repozitorijuma) kreirati virtuelno okruženje:  
 `$ cd my_folder/`  
-`$ virtualenv env` ili `$ virtualenv -p python3 env` ili `$ virtualenv -p python3.6 env`
+`$ virtualenv env` ili `$ virtualenv -p python3 env` ili `$ virtualenv -p python3.7 env`
 3) Iz ovog foldera repozitorijuma preuzeti **requirements.txt** fajl, smestiti ga u folder gde ste kreirali virtuelno okruženje, aktivirati virtuelno okruženje i instalirati neophodne biblioteke:  
 `$ source env/bin/activate`  
 `$ pip install -r requirements.txt`  
@@ -60,14 +60,13 @@ Prilikom kreiranja okruženja za *Windows* operativnom sistemu se kreiraju aktiv
 Deaktivacija se vrši pomoću komande:  
 `> deactivate`
 
-Više informacija o radu sa **virtualenv**-om na *Windows*-u možete pronaći [ovde](https://virtualenv.pypa.io/en/stable/userguide/#windows-notes).  
+## 3. Anaconda  
 
-## 3. Anaconda Distribution  
+[Anaconda Individual Edition](https://www.anaconda.com/) predstavlja *open source* distribuciju za rad sa *AI*-om i *Data Science*-om u programskim jezicima *R* i *Python* na *Linux*, *Windows* i *MacOS* operativnim sistemima. Predstavlja industrijski standard za razvoj, testiranje i trening na jednom računaru.  
 
-[Anaconda Distribution](https://www.anaconda.com/distribution/) predstavlja *open source* distribuciju za najbrži i najlakši rad sa *AI*-om i *Data Science*-om u programskim jezicima *R* i *Python* na *Linux*, *Windows* i *MacOS* operativnim sistemima. Predstavlja industrijski standard za razvoj, testiranje i trening na jednom računaru.
+Uputstva za instalaciju:  
+* [Linux](https://docs.anaconda.com/anaconda/install/linux/)  
+* [MacOS](https://docs.anaconda.com/anaconda/install/mac-os/)
+* [Windows](https://docs.anaconda.com/anaconda/install/windows/)
 
-Detaljno uputstvo za instalaciju i podešavanje *Anaconda Distribution*-a možete pronaći [ovde](https://github.com/ftn-ai-lab/sc-2018-siit/tree/master/okruzenja/anaconda).  
-
-## 4. Virtuelna mašina  
-
-Detaljno uputstvo za preuzimanje i instalaciju *Linux* virtuelne mašine sa *Anaconda Distribution* možete pronaći [ovde](https://github.com/ftn-ai-lab/sc-2018-siit/tree/master/okruzenja/vm).
+Korisničku dokumentaciiju možete pronaći [ovde](https://anaconda.cloud/support-center).
