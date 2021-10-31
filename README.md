@@ -1,2 +1,5 @@
 # sc-2021-siit
-Soft Computing - 2021 - Softversko inženjerstvo i informacione tehnologije
+
+Repozitorijum kursa: **Soft Computing**  
+Smer: **Softversko inženjerstvo i informacione tehnologije**  
+Školska godina: **2021/2022**  
