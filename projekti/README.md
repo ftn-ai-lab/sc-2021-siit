@@ -24,3 +24,24 @@ Tačan raspored odbrane za sve timove/studente će biti objavljen nakon isteka r
 
 **Napomena: Studenti/timovi koji ne ostave link ka javnom GitHub repozitorijumu projekta u issue gde je projekat prijavljen neće moći da brane projekat.**  
 
+***  
+
+## Raspored odbrane projekta - Februar  
+
+**Odbrana projekta će biti održana u sredu 02.02. i četvrtak 03.02.2022. u NTP-u.**  
+
+Tačan raspored i mesto odbrane se nalaze u sledećem [dokumentu](https://docs.google.com/spreadsheets/d/1SvlRMOO-cN8l1ED-e0VGX61UeduCL4K5sIv_PxdYyPk/edit?usp=sharing).  
+
+Napomene za **formalnu** odbranu:  
+* **Vreme za izlaganje je najviše 10 minuta. Izlaganje će biti prekinuto ako prekorači navedeno vreme.**  
+* **Prezentacija (slajdovi) nije obavezna, ali je zainteresovani timovi mogu pripremiti.**  
+* **Timovi koji za svoj projekat imaju demo/aplikaciju/prezentaciju su dužni da obezbede laptop i podese sve neophodno pre početka odbrane.**
+
+Napomene za **samostalne** projekte:  
+* **Vreme izlaganja je najviše 10 minuta za timove od 2/3 člana, a 7 minuta za pojedinačne samostalne projekte. Izlaganje će biti prekinuto ako prekorači navedeno vreme.**  
+* **Timovi/studenti koji za svoj projekat imaju demo/aplikaciju su dužni da obezbede laptop i podese sve neophodno pre početka odbrane.**  
+
+Napomene za **predefinisane** projekte:  
+* **Vreme izlaganja je najviše 5 minuta. Izlaganje će biti prekinuto ako prekorači navedeno vreme.**  
+* **Studenti ne moraju donositi laptopove na odbranu.**
+
