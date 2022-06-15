@@ -12,7 +12,7 @@
 
 **Odbrana projekta će biti održana u nedelji 31.01. - 04.02.2022.**  
 
-Prijava se vrši putem sledeće [forme](https://forms.gle/GBQXfz19F8pEgcYE6) (ostaviti link ka GitHub issue-u gde je projekat **prijavljen**).  
+Prijava se vrši putem sledeće [forme ](https://forms.gle/GBQXfz19F8pEgcYE6)(ostaviti link ka GitHub issue-u gde je projekat **prijavljen**).  
 
 **Rok za prijavu odbrane i izradu projekta je utorak 25.01.2022. u 23:59h.**  
 
@@ -45,3 +45,20 @@ Napomene za **predefinisane** projekte:
 * **Vreme izlaganja je najviše 5 minuta. Izlaganje će biti prekinuto ako prekorači navedeno vreme.**  
 * **Studenti ne moraju donositi laptopove na odbranu.**
 
+***
+
+## Drugi termin odbrane  
+
+**Odbrana projekta će biti održana u nedelji 04.07. - 08.07.2022.**  
+
+Prijava se vrši putem sledeće [forme ](https://forms.gle/7BVGwabAfhg9hNrKA)(ostaviti link ka GitHub issue-u gde je projekat **prijavljen**).  
+
+**Rok za prijavu odbrane i izradu projekta je nedelja 03.07.2022. u 23:59h.**  
+
+Nakon isteka pomenutog roka, izvorni kodovi će biti preuzeti sa registrovanih repozitorijuma i nad njima će biti izvršena analiza plagijata.  
+
+Tačan raspored odbrane za sve timove/studente će biti objavljen nakon isteka roka za prijavu odbrane i izradu projekta.  
+
+**Pošto je projekat predispitna obaveza, ovo je poslednji termin za odbranu projekta u ovoj školskoj godini.**  
+
+**Napomena: Studenti/timovi koji ne ostave link ka javnom GitHub repozitorijumu projekta u issue gde je projekat prijavljen neće moći da brane projekat.**
