@@ -62,3 +62,19 @@ Tačan raspored odbrane za sve timove/studente će biti objavljen nakon isteka r
 **Pošto je projekat predispitna obaveza, ovo je poslednji termin za odbranu projekta u ovoj školskoj godini.**  
 
 **Napomena: Studenti/timovi koji ne ostave link ka javnom GitHub repozitorijumu projekta u issue gde je projekat prijavljen neće moći da brane projekat.**
+
+***
+
+## Raspored odbrane projekta - Jul   
+
+**Odbrana projekta će biti održana u petak 08.07.2022. u NTP-311.**  
+
+Tačan raspored odbrane se nalazi u sledećem [dokumentu](https://docs.google.com/spreadsheets/d/1YgbF5fBJej0YCTj0q_eQsurSs67UGfK3kNmEv1vMQ4w/edit?usp=sharing).  
+
+Napomene za **samostalne** projekte:  
+* **Vreme izlaganja je najviše 10 minuta za timove od 2/3 člana, a 7 minuta za pojedinačne samostalne projekte. Izlaganje će biti prekinuto ako prekorači navedeno vreme.**  
+* **Timovi/studenti koji za svoj projekat imaju demo/aplikaciju su dužni da obezbede laptop i podese sve neophodno pre početka odbrane.**  
+
+Napomene za **predefinisane** projekte:  
+* **Vreme izlaganja je najviše 5 minuta. Izlaganje će biti prekinuto ako prekorači navedeno vreme.**  
+* **Studenti ne moraju donositi laptopove na odbranu.**
